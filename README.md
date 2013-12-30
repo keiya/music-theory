@@ -1,4 +1,4 @@
-A Music Theory Tools
+Music Theory Tools
 ====================
 
 ## Circle of Fifth (五度圏)
