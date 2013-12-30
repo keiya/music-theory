@@ -1,0 +1,6 @@
+[submodule "circle-of-fifth.js/music.js"]
+	path = circle-of-fifth.js/music.js
+	url = git://github.com/gregjopa/music.js.git
+[submodule "circle-of-fifth.js/Audiolet"]
+	path = circle-of-fifth.js/Audiolet
+	url = git://github.com/oampo/Audiolet.git
