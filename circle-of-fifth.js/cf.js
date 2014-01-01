@@ -86,7 +86,6 @@ function init() {
 		arcMin.graphics.arc(305,305,200,startAngle,startAngle+deg30).moveTo(305,305).closePath();
 		startAngle += deg30;
 
-		console.log(idx);
 		var maj = new Function("triggerPenta("+idx+",'maj');");
 		var min = new Function("triggerPenta("+idx+",'min');");
 		arcMaj.addEventListener("click",maj);
